@@ -2458,7 +2458,7 @@ html[dir="rtl"] #header .tip-light:before {
   }
   #header .header-nav.header-nav-stripe nav > ul > li:hover > a,
   #header .header-nav.header-nav-stripe nav > ul > li.open > a {
-    background-color: #0b71e1;
+    background-color: #F28F00;
   }
   #header .header-nav.header-nav-stripe nav > ul:not(:hover) > li > a.active {
     background-color: #0b71e1;
